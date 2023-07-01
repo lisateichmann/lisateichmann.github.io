@@ -8,6 +8,13 @@ Lisa Teichmann (Pulsatilla) est flûtiste et musicienne électronique. Dans ses 
 <br>
 Lisa a participé à plusieurs co-créations, elle a notamment créé le son de l’installation "Seeking Stillness" de George Fok présentée par le Centre Phi de Montréal en 2020, la trame sonore du documentaire “Portrait de Pierre Bourgault” de Sarah Seené et, avec Chittakone Baccam, la trame sonore du court métrage “are you haunted, daddy ? (about anxiety)” de Guillaume Vallée. Sa musique a été diffusée par DMT records, Jeunesse Cosmique et Crochet Disque.
 
-**Ecoutez son album ["Sanftmut"](https://jeunessecosmique.bandcamp.com/album/sanftmut) (2021)**
+**Ecoutez son album** ["Sanftmut"](https://jeunessecosmique.bandcamp.com/album/sanftmut) (2021)**
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1656461307/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jeunessecosmique.bandcamp.com/album/sanftmut">Sanftmut by Pulsatilla</a></iframe>
+
 <br>
 **Pour toutes ses projets artistiques visitez son [site web](https://pulsatilla.weebly.com)**

@@ -7,7 +7,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
     - text: "Publications"
-      href: Publications.html
+      href: publications.html
     - text: "Music"
       href: music.html
 output_dir: "."
