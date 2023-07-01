@@ -1,0 +1,27 @@
+---
+title: "Publications"
+output: html_document
+---
+<body style="background-color:#EAF9F3;">
+
+Teichmann, Lisa. “Geomapping Bibliographic Translation Data from the German National Library Catalogue: A Casestudy,” September 7, 2022. https://doi.org/10.5281/ZENODO.7058385.
+
+Teichmann, Lisa, Aengus Bridgman, Sean Nossek, Oleg Zhilin, Peter John Loewen, Derek Ruths, and Taylor Owen. “Public Health Communication and Engagement on Social Media during the COVID-19 Pandemic,” 2020. https://preprints.jmir.org/preprint/23248.
+
+Bridgman, Aengus, Eric Merkley, Peter John Loewen, Taylor Owen, Derek Ruths, Lisa Teichmann, and Oleg Zhilin. “The Causes and Consequences of COVID-19 Misperceptions: Understanding the Role of News and Social Media.” Harvard Kennedy School Misinformation Review, June 18, 2020. https://doi.org/10.37016/mr-2020-028.
+
+Teichmann, Lisa.  “Narrating the Architecture of Turkish Urban Society in Modern Turkish Literature – the Case of the Apartment Building.” In History Takes Place: Rome: Dynamics of Urban Change, edited by Anna Hofmann, Martin Zimmermann, Zeit-Stiftung Ebelin und Gerd Bucerius, and Gerda Henkel Stiftung. Berlin: jovis Verlag, 2017.
+
+Teichmann, Lisa. “Migration and Literary Education: A Comparative Study of the Turkish American Community and the TUrkish Austrian Community.” The Berkeley Papers. Marshallplan Foundation, 2016.
+
+Esendal, Memduh Şevket, Attila Babadostu, Dimitri Gül, Iskender Kantemur, Melanie Langsenlehner, Julia Margiol, Lisa Teichmann, and Verlag Literaturca. Von Heuverkäufern, Glücksvögeln und Steinmörsern Kurzgeschichten in zwei Sprachen, Deutsch und Türkisch = Üfürükçü, otçuluk, taşhavan, kısmet, 2015.
+
+Teichmann, Lisa, Hugo Barreca, and Annie Koh. “The City as a Battleground of Memories.” Dérive Journal Brochure, 2015.
+
+Teichmann, Lisa. “Book Review: Celâl Esad Arseven. Ein Leben Zwischen Kunst, Politik Und Wissenschaft,” Bibliotheca Orientalis (BiOr), 2015.
+
+Teichmann, Lisa.  “Book Review: Orhan Pamuk’s Istanbul,” Bibliotheca Orientalis (BiOr), 2015.
+
+Teichmann, Lisa.  “Portraying Social Hierarchies in the Narrative Architecture of Haldun Taner’s Ayışığında Çalışkur (Çalışkur in the Moonlight).” In İstanbul Kültür Üniversitesi V. Uluslararası Türk Dili ve Edebiyatı Öğrenci Kongresi TUDOK 2014, 23-24 Haziran 2014, Bildiriler =: Istanbul Kültür University 5th International Student Congress of Turkish Language and Literature 2014, TUDOK 2014, 23-24 June 2014, Proceedings, edited by A. Dinçel, yayın no: 213. Bakırköy, İstanbul: İstanbul Kültür Üniversitesi, 2014.
+
+Teichmann, Lisa.  “Reflecting on the City in Turkish Literature – A Comparative Approach to the Apartment and the Issue of Urban Change.” In Images (III) Images of the City: The Conference Proceedings, Bd. 57:167–74. Ethnologie (Lit (Firm)). Zürich: Lit, 2014.	

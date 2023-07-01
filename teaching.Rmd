@@ -1,0 +1,45 @@
+---
+title: "Teaching"
+---
+<br>
+<body style="background-color:#EAF9F3;">
+----
+
+### Teaching Digital Humanities ###
+
+03/22 – 03/23		Workshop instructor “La géolocalisation des données avec R”, “Explorer les données textuelles avec Voyant Tools”, “Visualiser les résultats d’analyses avec ggplot2” at LADIREC, McGill University
+
+09/20 – 12/20	TA in LLCU-212 Understanding Digital and Social Media
+	Department of Languages, Literatures, and Cultures, McGill University
+
+01/20 – 04/20	TA in LLCU-311 Digital Studies/Citizenry
+	Department of Languages, Literatures, and Cultures, McGill University
+
+09/19 – 12/19	TA in LLCU-212 Understanding Digital and Social Media
+	Department of Languages, Literatures, and Cultures, McGill University
+
+09/16 – 04/17	TA in LLC255 Introduction of Text Mining
+	Department of Languages, Literatures, and Cultures, McGill University
+
+<br>
+
+----
+
+### Teaching German language, literature, and culture ###
+
+03/23 – 04/23		Course Lecturer GERM 367 Topics in German Thought: Karl Marx
+			Department of Languages, Literatures, and Cultures, McGill University
+			
+10/20 – 04/21	Assistant Language Instructor (Monitrice) at the Collège de Maisonneuve
+
+01/17 – 04/18	Course lecturer GERM 202 (Beginner's German)
+	Department of Languages, Literatures, and Cultures, McGill University
+
+09/16 – 12/16	Course lecturer GERM 202 (Beginner's German)
+	Department of Languages, Literatures, and Cultures, McGill University
+
+01/15 – 06/15		Turkish Language Instructor, Community College VHS Hietzing, Vienna
+)
+
+<br> 
+

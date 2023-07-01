@@ -1,0 +1,17 @@
+---
+title: "About me"
+author:  "[Lisa Teichmann](https://github.com/lisateichmann), Postdoctoral Fellow at [CRIHN](https://www.crihn.org), 27/06/23"
+output:
+  html_document:
+    fig_width: 1
+---
+<body style="background-color:#EAF9F3;">
+
+![I am originally from Austria, my native language being German. I have a Bachelor's degree in Middle Eastern Studies from the University of Vienna. For my BA specialized in Turkish language and literature and also took courses at Bogazici and Istanbul University. During my Master's degree, which I did at Leiden University, I focused my research on urbanization and its literary representation in Turkish fiction.](images/Teichmann.jpg){width=20%}
+<br>
+I am originally from Austria, my native language being German. I have a Bachelor's degree in Middle Eastern Studies from the University of Vienna. For my BA specialized in Turkish language and literature and also took courses at Bogazici and Istanbul University. During my Master's degree, which I did at Leiden University, I focused my research on urbanization and its literary representation in Turkish fiction.
+
+https://maphub.net/lisateichmann/Academic-Roadmap
+
+----
+

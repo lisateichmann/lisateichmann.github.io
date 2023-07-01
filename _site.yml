@@ -1,0 +1,19 @@
+name: "Lisa Teichmann"
+navbar:
+  title: "Lisa Teichmann, PhD"
+  left:
+    - text: "Projects"
+      href: projects.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Music"
+      href: music.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html
