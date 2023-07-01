@@ -10,6 +10,13 @@ navbar:
       href: publications.html
     - text: "Music"
       href: music.html
+      right:
+    - href: https://github.com/lisateichmann
+      icon: fa-github
+    - icon: fa-linkedin
+      href: https://www.linkedin.com
+    - icon: fa-twitter
+      href: https://twitter.com/teichfrau
 output_dir: "."
 output:
   html_document:
