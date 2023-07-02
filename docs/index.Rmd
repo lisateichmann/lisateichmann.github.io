@@ -15,7 +15,7 @@ I am originally from Austria, my native language being German, but I also speak 
 <img align="left" width=150 height="150" src="images/Teichmann.jpg">
 In 2015 I started a PhD at McGill University with Andrew Piper as my supervisor, as a NovelTM fellow, assistant editor of [Cultural Analytics](https://culturalanalytics.org), and lab member at [txtlab](https://txtlab.org). I increasingly got interested in translation trajectories and their geographic mapping, as a result of which I finished my thesis "Mapping German Fiction in Translation in the German National Library Catalogue (1980-2020)" in December 2022.
 <br>
-Since April 2023 I am a postdoctoral fellow at the Centre de recherche interuniversitaire sur les humanités numériques (CRIHN), Université de Montréal. I work on testing my quantitative model for translationalism, literary transfer, and canonicity on data from various national collections.
+Since April 2023 I am a postdoctoral fellow at the Centre de recherche interuniversitaire sur les humanités numériques (CRIHN), Université de Montréal. I work on testing my quantitative model for translationalism, literary transfer, and canonicity on data from  national collections.
 
 
 

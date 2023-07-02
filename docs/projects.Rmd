@@ -53,6 +53,16 @@ Description de la base de données Romans à lire, une ressource de Bibliothèqu
 <br>
 **[Dataverse](https://doi.org/10.5683/SP3/HMSNVE) pour Rapport et statistiques descriptives**
 
+----
+
+### Press corpus of food-related articles for Montreal (English and French)
+
+For this project I worked on the document classification using a Random Forest machine learning algorithm for the English language corpus. The main objective was to classify food-related articles. The resulting corpus has been published in TFI/DF format and is available for text analysis.
+
+<br>
+**[Corpus Github repository](https://github.com/LADIREC/recitsfaim) (24 752 French articles andc9 194 English articles in TFI/DF format**
+<br>
+**[Code Github repository](https://github.com/LADIREC/classification_corpus_mediatique_alimentation_partage)Scripts for the document classification of food-related media article with Random Forest**
 
 
 
