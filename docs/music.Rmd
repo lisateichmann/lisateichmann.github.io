@@ -6,14 +6,14 @@ title: "Music"
 
 Under my artist name Lisa Pulsatilla I create music with flute, electronics, synthesizers, guitar, and field recordings. I have participated in a number of co-creations, including creating the sound for George Fok's installation “Seeking Stillness” presented by Montreal's Phi Center in 2020, the soundtrack for Sarah Seené's documentary “Portrait de Pierre Bourgault” and, with Chittakone Baccam, the soundtrack for Guillaume Vallée's short film “are you haunted, daddy? (about anxiety)”. As a musician I was part of ShyGirls collective, Goodsine, and LoSignal (CKUT 90.3 FM). Her music has been released by Sound as Language, DMT records, Jeunesse Cosmique and Crochet Disque. My music investigates the experience of the breath and trauma in the body, its vibratory release and healing music.
 
-**Listen to my solo album** ["Fernweh"](https://isohyetmusic.bandcamp.com/album/fernweh-2) (2025)**
+**Listen to my solo album** ["Fernweh"](https://isohyetmusic.bandcamp.com/album/fernweh-2) (2025)
 
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=806028517/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://isohyetmusic.bandcamp.com/album/fernweh-2">Fernweh by Pulsatilla</a></iframe>>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=806028517/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://isohyetmusic.bandcamp.com/album/fernweh-2">Fernweh by Pulsatilla</a></iframe>
 
 <br>
 **For a list of all music projects please consult my [artist webpage](https://github.com/lisateichmann/Mapping-German-Fiction-in-Translation).**

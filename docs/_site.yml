@@ -15,8 +15,8 @@ navbar:
       icon: fa-github
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/lisa-teichmann-phd/
-    - icon: fa-twitter
-      href: https://twitter.com/teichfrau
+    - icon: fa-bluesky
+      href: https://bsky.app/profile/lteichmann.bsky.social
 output_dir: "."
 output:
   html_document:
