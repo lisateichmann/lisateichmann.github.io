@@ -4,17 +4,16 @@ title: "Music"
 <body style="background-color:#EAF9F3;">
 
 
-Lisa Teichmann (Pulsatilla) est flûtiste et musicienne électronique. Dans ses performances en direct, elle superpose des nappes atmosphériques à l'improvisation à la flûte pour créer des paysages sonores organiques, profonds et naturels. Elle aime s'engager dans des sons qui se rapportent à l'expérience du traumatisme dans le corps, à sa libération vibratoire et à la musique de guérison.
-<br>
-Lisa a participé à plusieurs co-créations, elle a notamment créé le son de l’installation "Seeking Stillness" de George Fok présentée par le Centre Phi de Montréal en 2020, la trame sonore du documentaire “Portrait de Pierre Bourgault” de Sarah Seené et, avec Chittakone Baccam, la trame sonore du court métrage “are you haunted, daddy ? (about anxiety)” de Guillaume Vallée. Sa musique a été diffusée par DMT records, Jeunesse Cosmique et Crochet Disque.
+Under my artist name Lisa Pulsatilla I create music with flute, electronics, synthesizers, guitar, and field recordings. I have participated in a number of co-creations, including creating the sound for George Fok's installation “Seeking Stillness” presented by Montreal's Phi Center in 2020, the soundtrack for Sarah Seené's documentary “Portrait de Pierre Bourgault” and, with Chittakone Baccam, the soundtrack for Guillaume Vallée's short film “are you haunted, daddy? (about anxiety)”. As a musician I was part of ShyGirls collective, Goodsine, and LoSignal (CKUT 90.3 FM). Her music has been released by Sound as Language, DMT records, Jeunesse Cosmique and Crochet Disque. My music investigates the experience of the breath and trauma in the body, its vibratory release and healing music.
 
-**Ecoutez son album** ["Sanftmut"](https://jeunessecosmique.bandcamp.com/album/sanftmut) (2021)**
+**Listen to my solo album** ["Fernweh"](https://isohyetmusic.bandcamp.com/album/fernweh-2) (2025)**
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1656461307/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://jeunessecosmique.bandcamp.com/album/sanftmut">Sanftmut by Pulsatilla</a></iframe>
+<<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=806028517/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://isohyetmusic.bandcamp.com/album/fernweh-2">Fernweh by Pulsatilla</a></iframe>>
 
 <br>
-**Pour toutes ses projets artistiques visitez son [site web](https://pulsatilla.weebly.com)**
+**For a list of all music projects please consult my [artist webpage](https://github.com/lisateichmann/Mapping-German-Fiction-in-Translation).**

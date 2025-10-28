@@ -4,6 +4,14 @@ output: html_document
 ---
 <body style="background-color:#EAF9F3;">
 
+(forthcoming) Teichmann, Lisa. “Verena Stefan in Translation.” Verbrecher Verlag, Berlin.
+
+(in review) Teichmann, Lisa. “Translationalism and the gender gap in the German National Library: A case study for women writers”, Feminist Translation Studies
+
+Teichmann, Lisa, Karolina Roman. “Bibliographic Translation Data: Invisibility, Research Challenges, Institutional and Editorial Practices”, DHQuarterly, August 2024. https://www.digitalhumanities.org/dhq/vol/18/3/000749/000749.html
+
+Teichmann, Lisa. “The ’Mapping German fiction in translation’ dataset: Data collection, scope, and data quality”, Journal of Cultural Analytics, April 2025. https://culturalanalytics.org/article/128010
+
 Teichmann, Lisa. “Geomapping Bibliographic Translation Data from the German National Library Catalogue: A Casestudy,” September 7, 2022. https://doi.org/10.5281/ZENODO.7058385.
 
 Teichmann, Lisa, Aengus Bridgman, Sean Nossek, Oleg Zhilin, Peter John Loewen, Derek Ruths, and Taylor Owen. “Public Health Communication and Engagement on Social Media during the COVID-19 Pandemic,” 2020. https://preprints.jmir.org/preprint/23248.

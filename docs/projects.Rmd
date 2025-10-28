@@ -17,8 +17,6 @@ This thesis project is dedicated to making translations visible and disentanglin
 **Read my thesis [here](https://escholarship.mcgill.ca/concern/theses/0p096d03z).**
 <br>
 
-----
-
 ### Geomapping bibliographic Translation data from the German National Library Catalogue: A Casestudy
 
 Prototype for visualizing bibliographic data for translations extracted from the German National Library catalogue in geographic space in [Shinyapp](https://lt-ladirec.shinyapps.io/GeomappingTranslationsPrototype/).
@@ -34,6 +32,20 @@ knitr::opts_chunk$set(echo = TRUE)
 <iframe width="100%" height="150px" src="https://lt-ladirec.shinyapps.io/GeomappingTranslationsPrototype/" title="Geomapping Casestudy" data-external="1"></iframe>
 
 ----
+
+## Past Projects
+
+### Cultural Crosscurrents Catalogue of Translations in Stuart and Commonwealth Britain (1641-1660) 
+
+Currently featuring over 1700 entries, the Cultural Crosscurrents Catalogue is an online catalogue that gathers bibliographic data on translations in all and into all languages printed in England, Scotland, Ireland, and ‘New England’, or translations printed abroad but in English, for the two decades covering the English Civil Wars and the Interregnum.
+
+As part of a postdoc at the Université de Montréal, I helped evaluate and improve the FAIRness of the CCC. I also created data visualizations (geographic maps and language networks).
+
+<br>
+
+**[Webpage with visualizations](https://www.crosscurrentscatalogue.ca/networks-and-maps/)**
+
+**[Data repository](https://hsscommons.ca/en/projects/crosscurrentscatalogue)**
 
 ### A Literary Atlas of Turkey
 
