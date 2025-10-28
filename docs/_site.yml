@@ -17,6 +17,8 @@ navbar:
       href: https://www.linkedin.com/in/lisa-teichmann-phd/
     - icon: fa-bluesky
       href: https://bsky.app/profile/lteichmann.bsky.social
+    - icon: fa-university
+      href: https://ucrisportal.univie.ac.at/en/persons/lisa-teichmann
 output_dir: "."
 output:
   html_document:

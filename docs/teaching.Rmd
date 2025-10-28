@@ -7,6 +7,12 @@ title: "Teaching"
 
 ### Teaching Digital Humanities ###
 
+09/25 – 01/26 Course instructor "Research Seminar", Master course for Data Analysis and Business Analytics, University of Vienna 
+
+05/25 Course instructor "Données Ouvertes", Université de Montréal
+
+01/24 – 02/24 Course instructor "Données Ouvertes", Université de Montréal
+
 03/22 – 03/23		Workshop instructor “La géolocalisation des données avec R”, “Explorer les données textuelles avec Voyant Tools”, “Visualiser les résultats d’analyses avec ggplot2” at LADIREC, McGill University
 
 09/20 – 12/20	TA in LLCU-212 Understanding Digital and Social Media
